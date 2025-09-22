@@ -1,4 +1,10 @@
+![Screenshot – Google ADK + YFinance](docs/images/google-adk.png)
+
 # Google ADK + YFinance – Consulta de Cotações
+
+- Artigo (PT-BR): [docs/artigo.md](docs/artigo.md)
+- Article (EN): [docs/article-en.md](docs/article-en.md)
+- Usage demo: [docs/usage-demo.md](docs/usage-demo.md)
 
 Este projeto demonstra um agente do Google ADK que consulta cotações de ações usando o YFinance. O agente expõe uma ferramenta `fetch_stock_info` que retorna nome do ativo, preço atual, mínima/máxima do dia e recomendação.
 
